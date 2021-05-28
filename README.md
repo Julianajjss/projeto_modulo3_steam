@@ -1,19 +1,18 @@
 # Projeto Final de Módulo 3 da Turma Vamo Ai - Resilia 
 # Steam Store Games 
 
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-27%2022-45-20.png)
 
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2002-17-29.png)
 
-#### Equipe : Jefferson Felix, Juliana Simão, Maressa Machado e Michille Lira.
+---
 
-## Sobre Steam a Steam : 
->O Steam foi lançado em 2003 pela produtora Valve, como um serviço para vender jogos digitais, dos mais variados – basicamente, uma loja online.
-
-## Há quanto tempo existe: 
+## Há quanto tempo existe a Steam: 
 >Hoje, com 15 anos de história, a plataforma é líder do mercado e referência para concorrentes que surgem. 
 
-## Como funciona: 
-> Atualmente a Steam deixou de ser apenas uma plataforma de jogos online para se tornar um canal multimídia especializado no universo de jogos virtuais e funciona como uma mistura de rede social e loja virtual de jogos eletrônicos.
--------------
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2002-17-35.png)
+
+---
 
 ## Ferramententas Utilizadas: 
 * Kanbam 
@@ -30,12 +29,12 @@
 * Scrum 
 * Google Slide
 * Git
-------------
+---
 # Soft Skills 
 * Planejamento 
 * Aplicação do Design Thinking 
 * Aplicação de Scrum 
---------------
+---
 # Dores do Cliente : Aplicativo - Google Play 
  
 > * Instabilidade e bugs no app.Alguns usuários não conseguem se cadastrar. 
