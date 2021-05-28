@@ -1,5 +1,5 @@
 # Projeto Final do Módulo 3 - VamoAI 
-# Analisando dados da 🆂🆃🅴🅰🅼 🆂🆃🅾🆁🅴 🅶🅰🅼🅴🆂 🕹
+# Criando um dashboard com dados da 🆂🆃🅴🅰🅼 🎮
 
 ![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-27%2022-45-20.png)
 
