@@ -97,7 +97,7 @@ __Fontes consultadas:__
 > * Problemas com o Steam Guard
 > * Problemas com o funcionamento dos jogos
 
- #### Reclame Aqui: Encontramos 2 cadastros de nome "Steam" e "SteamBR". A Steam é considerada uma empresa "não recomendada". Muitas das reclamações não foram respondidas (445, mais exatamente). Em 2020 foram 471 reclamações. Nos últimos 6 meses foram 207 e todas sem resposta.
+#### Reclame Aqui: Encontramos 2 cadastros de nome "Steam" e "SteamBR". A Steam é considerada uma empresa "não recomendada". Muitas das reclamações não foram respondidas (445, mais exatamente). Em 2020 foram 471 reclamações. Nos últimos 6 meses foram 207 e todas sem resposta.
 ---
 
 ## Mais alguns dados interessantes...
@@ -153,6 +153,7 @@ Outro ponto que nos chamou a atenção foi o aumento da presença feminina em pl
 #### De acordo com a Pesquisa Game Brasil, que utilizou como amostra cerca de 15 mil brasileiras, 69,8% das mulheres jogam jogos eletrônicos.
 
 ![](https://www.pesquisagamebrasil.com.br/wp-content/uploads/2021/03/PGB-2021-BR-Gratuita-1200x1179.png)
+---
 
 ## Criação de visualização de dados atráves de tabelas com o uso de Metabase
 
@@ -188,5 +189,4 @@ Outro ponto que nos chamou a atenção foi o aumento da presença feminina em pl
 * https://steamcommunity.com/discussions/forum/27/
 * https://github.com/EthanWalker/steam-analyzer
 * https://github.com/cyber-gh/SteamCrawlerApi
-
 
