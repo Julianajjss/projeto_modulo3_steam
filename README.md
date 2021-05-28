@@ -59,27 +59,26 @@
 
 ## Dados Interessantes 
 
-______
+---
+# Criação da Persona 
 
+* Personas são personagens fictícios criados para representar os diferentes tipos de usuário dentro de um alvo demográfico, neste caso, um jogador basileiro da steam. 
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/User%20Persona%20Template.jpg)
+
+---
 # Mapa da Empatia
 
 * Mapa da Empatia é um material utilizado para conhecer melhor o seu cliente. A partir do mapa da empatia é possível detalhar a personalidade do cliente e compreendê-la melhor. Atráves de uma pesquisa com 40 jogadores ativos no site da steam, conseguimos responder as 6 perguntas feita pelo mapa para sanar os velhos problemas e construir a steam do futuro. 
-
-
-_________________
-
-# Criação da Persona 
-
-* Personas são personagens fictícios criados para representar os diferentes tipos de usuário dentro de um alvo demográfico, neste caso, um jogador da steam. 
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/mapa_empatia(2).jpg)
 
 
 ## Problemas 
->> Usabilidade 
+Usabilidade 
 
->> Responsividade
+Responsividade
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2002-18-22.png)
 
-## Soluções 
->> Implantação de uma filosofia com priorização do mobile.
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2002-18-25.png)
 
 >> Correções de problemas com plugins e/ou flashs.
 
@@ -90,4 +89,8 @@ _________________
 --------------
 
 
-## Criação de vizualização de dados atráves de tabelas com o uso de Metabase.
+## Criação de visualização de dados atráves de tabelas com o uso de Metabase.
+
+
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2002-18-46.png)
+
