@@ -1,5 +1,5 @@
 # Projeto Final do Módulo 3 - VamoAI 
-# Analisando dados da 🆂🆃🅴🅰🅼 🆂🆃🅾🆁🅴 🅶🅰🅼🅴🆂 🕹
+# Criando um dashboard com dados da 🆂🆃🅴🅰🅼 🎮
 
 ![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-27%2022-45-20.png)
 
@@ -114,7 +114,7 @@ __Fontes consultadas:__
 
 >Personas são personagens fictícios criados para representar os diferentes tipos de usuário dentro de um alvo demográfico, neste caso, um jogador basileiro da steam. 
 
-Criamos a nossa persona com base nas informações obtidas nas fontes referenciadas na conclusão deste readme.
+Criamos a nossa persona com base nas informações obtidas nas fontes referenciadas na conclusão deste readme.  
 Para darmos um rosto ao Tom, nossa persona, utilizamos a ferramenta Generated, que gera rostos através de Inteligência Artificial. 
 
 ![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/User%20Persona%20Template.jpg)
@@ -146,12 +146,31 @@ O Metabase oferece vários formatos para apresentação dos dados filtrados, sem
 
 ---
 
+>A Steam possui cerca de 120,000,000 de usuários ativos
+
+Outro ponto que nos chamou a atenção foi o aumento da presença feminina em plataformas de jogos digitais
+
+#### De acordo com a Pesquisa Game Brasil, que utilizou como amostra cerca de 15 mil brasileiras, 69,8% das mulheres jogam jogos eletrônicos.
+
+![](https://www.pesquisagamebrasil.com.br/wp-content/uploads/2021/03/PGB-2021-BR-Gratuita-1200x1179.png)
 
 ## Criação de visualização de dados atráves de tabelas com o uso de Metabase
 
+#### Nossas tabelas no Metabase:
 
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2005-05-56.png)
+---
 
---
+#### Exemplo de uma filtragem de informações na plataforma, neste caso, os sistemas operacionais utilizados pelos usuários:
+
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2005-07-55.png)
+---
+
+#### E uma outra filtragem com o percentual de jogos por faixa etária de 1 a 18 anos:
+
+![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2005-15-35.png)
+
+---
 ![](https://github.com/michelle-lira/projeto_modulo3_steam/blob/main/images/Captura%20de%20tela%20de%202021-05-28%2002-18-46.png)
 
 ---
